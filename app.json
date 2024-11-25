@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "abraxoss",
+    "slug": "abraxoss",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logogame.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/logogame.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logogame.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/logogame.png"
+    }
+  }
+}
